@@ -2,3 +2,9 @@
 // Created by USER on 25. 8. 6.
 //
 
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
